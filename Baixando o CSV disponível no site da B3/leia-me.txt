@@ -1,0 +1,8 @@
+Funcionamento: Ao executar o código, a página do Indice Ibovespa, no site da B3, será aberta no Google Chrome e o CVS que contém as informações da carteira teórica será baixado
+	       O arquivo CSV baixado poderá ser encontrado na pasta padrão de donwloads do navegador Chrome.
+
+Pré requisitos: 
+1 - Chrome webdriver na pasta onde o programa está salvo
+2 - Biliotecas selenium e lxml
+
+Miguel Abdala

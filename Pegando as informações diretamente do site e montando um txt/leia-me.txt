@@ -1,0 +1,9 @@
+Funcionamento: Ao executar o código, a página do Indice Ibovespa, no site da B3, será aberta no Google Chrome e a tabela que contém as informações do índice será lida.
+	       Depois disso serão criados 2 arquivos txt, um contendo as ações que fazem parte do Ibovespa e outro contendo suas respectivas porcentagens.
+	       Os arquivos serão salvos na pasta desejada (durante a execução do código, é perguntado ao usuário qual o destino dos arquivos) e serão nomeados como acoes.txt e porcentagem_teorica.txt.
+
+Pré requisitos: 
+1 - Chrome webdriver na pasta onde o programa está salvo
+2 - Biliotecas pandas, selenium e lxml
+
+Miguel Abdala
